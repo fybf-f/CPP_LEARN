@@ -4,7 +4,7 @@
 
 - ### [C++八股](https://github.com/fybf-f/CPP_LEARN/blob/main/C%2B%2B八股.md)
 
-- ### [C++进阶部分](https://github.com/fybf-f/CPP_LEARN/blob/main/C%2B%2B进阶.md)
+- ### [C++进阶部分]([https://github.com/fybf-f/CPP_LEARN/blob/main/C%2B%2B进阶.md](https://github.com/fybf-f/CPP_LEARN/blob/main/C%2B%2Badvance.md))
 
 ### 
 
