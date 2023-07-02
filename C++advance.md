@@ -49,7 +49,7 @@ public:
         str.mptr = nullptr;
     }
 
-    /* 重载拷贝复制运算符 */
+    /* 重载拷贝赋值运算符 */
     CMyString &operator=(const CMyString &str)
     {
         cout << "CMyString& operator=(const CMyString &str)" << endl;
